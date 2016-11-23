@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">প্রবাদ বাক্য </string>
+    <string name="banner_ad_unit_id">ca-app-pub-8471623365486761/6447681804</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Navigation Drawer menu labels -->
+
+    <string name="nav_home">Home</string>
+    <string name="nav_english">English-Bengali Proverbs</string>
+    <string name="nav_bangla">বাংলা প্রবাদ বাক্য</string>
+    <string name="nav_bang_to_eng">বাংলা থেকে ইংরেজী</string>
+    <string name="nav_topsearch">Top Searched</string>
+    <string name="nav_editorpicks">Favorite Proverbs</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>English</item>
+        <item>বাংলা</item>
+        <item>Top Searched</item>
+        <item>Editor Picks</item>
+    </string-array>
+    <string-array name="alphabates">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="alphabatesBn">
+        <item>অ</item>
+        <item>আ</item>
+        <item>ই</item>
+        <item>ঈ</item>
+        <item>উ</item>
+        <item>ঋ</item>
+        <item>এ</item>
+        <item>ঐ</item>
+        <item>ও</item>
+        <item>ঔ</item>
+        <item>ক</item>
+        <item>খ</item>
+        <item>গ</item>
+        <item>ঘ</item>
+        <item>চ</item>
+        <item>ছ</item>
+        <item>জ</item>
+        <item>ঝ</item>
+        <item>ট</item>
+        <item>ঠ</item>
+        <item>ড</item>
+        <item>ঢ</item>
+        <item>ত</item>
+        <item>থ</item>
+        <item>দ</item>
+        <item>ধ</item>
+        <item>ন</item>
+        <item>প</item>
+        <item>ফ</item>
+        <item>ব</item>
+        <item>ভ</item>
+        <item>য</item>
+        <item>ল</item>
+        <item>র</item>
+        <item>শ</item>
+        <item>স</item>
+        <item>হ</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="app_version"><b> প্রবাদ বাক্য </b> v 1.1</string>
+    <string name="app_about"> <b> প্রবাদ বাক্য </b>is an excellent android application that helps to learn English and Bengali proverbs for Bengali native speakers. To get more proverbs online visit English-bangla.com\n\n
+
+</string>
+    <string name="proverb_defination"><b>Proverb</b> বা <b> প্রবাদ </b> বলতে ঐসব সংক্ষিপ্ত অতি প্রচলিত উক্তি বা বাক্যকে বুঝায় যা সাধারণ জ্ঞান বা অভিজ্ঞতার উপর ভিত্তি করে কোন প্রাকৃত সত্য, আদর্শ, বিশ্বাস ইত্যাদি প্রকাশ করে। এসব বাক্য সাধারণত রূপক অর্থ (metaphorical) প্রকাশ করে।</string>
+    <string name="copyright">© Developed by English-bangla.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_editor_picks">EditorPicksActivity</string>
+
+</resources>

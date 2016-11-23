@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:paddingBottom="5sp"
+    android:paddingLeft="10sp"
+    android:paddingRight="5sp"
+    android:paddingTop="5sp">
+
+    <TextView
+        android:id="@+id/tv_proverbs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Proverb"
+        android:textColor="#000000"
+        android:fontFamily="Serif"
+        android:textSize="19sp"/>
+
+    <TextView
+        android:id="@+id/tv_probad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="Serif"
+        android:textColor="#00110f"
+        android:textSize="18sp"/>
+
+</LinearLayout>

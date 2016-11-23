@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_about_us"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sabutos.englishproverbs_banglaprobad.activities.AboutUsActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="64sp"
+            android:layout_height="64sp"
+            android:src="@drawable/probadbakkologo"
+            android:layout_marginTop="30sp"
+            android:id="@+id/imageView2"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:text="@string/app_version"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="26sp"
+            android:id="@+id/textView2" />
+
+        <TextView
+            android:text="@string/app_about"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:layout_marginTop="32dp"
+            android:layout_below="@+id/textView2"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"/>
+        <TextView
+            android:id="@+id/textViewLink1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:layout_marginRight="10sp"
+            android:layout_marginLeft="10sp"
+            android:layout_below="@+id/textView3"/>
+        <TextView
+            android:id="@+id/textViewLink2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="14sp"
+            android:textColor="#000000"
+            android:layout_marginRight="10sp"
+            android:layout_marginLeft="10sp"
+            android:layout_below="@+id/textViewLink1"/>
+        <TextView
+            android:id="@+id/textViewLink3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10sp"
+            android:layout_marginLeft="10sp"
+            android:layout_below="@+id/textViewLink2"/>
+    </RelativeLayout>
+
+
+</ScrollView>

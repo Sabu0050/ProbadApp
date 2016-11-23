@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#47168f</color>
+    <color name="colorPrimaryDark">#421189</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="englishColor">#8c1183</color>
+    <color name="banglaColor">#2d7a62</color>
+    <color name="fevColor">#07979b</color>
+</resources>
